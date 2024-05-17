@@ -1,7 +1,16 @@
 # AI-and-Data-Training-Resources
 This repository holds an ever increasing list of FREE AI and data training resources. 
 
-Do you want to contribute by adding resources to this list? Checkout how to [HERE](Contribute.md)
+## How to contribute a new resource
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b resource-name`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new resource'`)
+5. Push to the branch (`git push origin resource-name`)
+6. Create a new Pull Request (`Assign any repository maintainer`)
+
+
 
 
 | Skill/Tool         |      Title   |  Author |Level| Format|Link| Contributor|
