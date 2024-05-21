@@ -1,4 +1,4 @@
-# AI-and-Data-Training-Resources
+# AI-and-Data-Learning-Resources
 ## About
 At Graffiland, we want to make AI and data resources accessible to every AI and Data enthusiast. This repository holds an ever increasing and updated list of FREE AI and data training resources. 
 ## Purpose
@@ -13,6 +13,12 @@ If you have stumble upon a very good AI and data FREE resource that has helped y
 4. Commit your changes (`git commit -am 'Add new resource'`)
 5. Push to the branch (`git push origin resource-name`)
 6. Create a new Pull Request (`Assign any repository maintainer`)
+
+## Your Feedback
+Found these resources useful, click the 'star' icon on this repository to create awareness to your peers
+
+## Get notified with new resources
+Don't want to miss new resources, click the 'watch' icon on this repository to always gets notified when new resources are released. 
 
 ## Resources.
 
